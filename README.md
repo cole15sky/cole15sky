@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dawadiaakash
 - 👀 I’m interested in learning computer science.
-- 🌱 I’m currently learning code via.fullstack
+- 🌱 I’m currently learning code via.Front-end web development.
 - 💞️ I’m looking to collaborate on my project, soon to publish.
 - 📫 Find me on https://www.facebook.com/preatem.dawadi
 - 👍 here's my linkin'dn https://www.linkedin.com/in/aakash-dawadi165/
