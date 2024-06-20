@@ -13,8 +13,9 @@ Hi there, I'm Aakash 👋
 📫 How to reach me: https://www.linkedin.com/in/aakash-dawadi165/
 
 
-🛠  Tech Stacks
-Python JavaScript  React   HTML  CSS  Git  GitHub 
+🛠  Tech Stacks:
+
+Python,JavaScript ,React,   HTML,  CSS, Git,  GitHub 
 
 
 
