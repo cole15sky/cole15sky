@@ -1,18 +1,21 @@
-👋 Hello, I'm Aakash Dawadi!
-💻 Aspiring Front-End Developer | 📚 IT Student | 🎨 Design Enthusiast
 
-About Me
-
-I'm Aakash Dawadi, currently pursuing a Bachelor's degree in Information Technology. My passion lies in crafting effective and visually appealing front-end designs that enhance user experience. I have a strong interest in JavaScript and its ecosystem, constantly exploring new frameworks and libraries to build dynamic and interactive web applications.
+Hi there, I'm Aakash 👋
+💻 Aspiring Front-End Developer | 📚 IT Student | 🎨 Design EnthusiastHere 
 
 
-I'm excited to collaborate and connect with like-minded individuals in the tech community. Feel free to reach out to me!
+ My passion lies in crafting effective and visually appealing front-end designs that enhance the user experience.
 
-LinkedIn: https://www.linkedin.com/in/aakash-dawadi165/
+🌱 I’m  currently pursuing a Bachelor's degree in Information Technology.
+👯 I’m looking to collaborate on Full-Stack and AI Projects.
+📫 How to reach me: https://www.linkedin.com/in/aakash-dawadi165/
+🛠  Tech Stacks
+Python JavaScript  React   HTML  CSS  Git  GitHub 
 
-X: https://x.com/adoresky___
 
-Email: dawadiaakash@gmail.com
+
+
+
+
 
 
 
