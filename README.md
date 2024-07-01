@@ -8,7 +8,7 @@ Hi there, I'm Aakash 👋
 
 🌱 I’m  currently pursuing a Bachelor's degree in Information Technology.
 
-👯 I’m currently learning Front-End Developement.
+👯 I’m currently learning JavaScript.
 
 📫 How to reach me: https://www.linkedin.com/in/aakash-dawadi165/
 
