@@ -15,11 +15,9 @@ Hi there, I'm Aakash 👋
 
 🛠  Tech Stacks:
 
-Python,JavaScript ,React,   HTML,  CSS, Git,  GitHub 
+ HTML,  CSS , JavaScript ,React, Git, GitHub ,Vite , Tailwind
 
 
-
-![Snake animation](https://github.com/cole15sky/cole15sky/blob/output/github-contribution-grid-snake.svg)
 
 
 
