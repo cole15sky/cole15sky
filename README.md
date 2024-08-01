@@ -19,6 +19,7 @@ Python,JavaScript ,React,   HTML,  CSS, Git,  GitHub
 
 
 
+![Snake animation](https://github.com/cole15sky/cole15sky/blob/output/github-contribution-grid-snake.svg)
 
 
 
