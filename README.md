@@ -8,7 +8,7 @@ Hi there, I'm Aakash 👋
 
 🌱 I’m  currently pursuing a Bachelor's degree in Information Technology.
 
-👯 I’m currently learning React.JS.
+👯 I’m currently learning Vue.JS.
 
 📫 How to reach me: https://www.linkedin.com/in/aakash-dawadi165/
 
