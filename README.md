@@ -1,13 +1,14 @@
-# 💫 About Me:
-👋 Hi, I'm Aakash!<br> 
 
 
-## 🌐 Find me on:
+## Hi, I'm Aakash 👋<br> 
+
+
+#### 🌐 Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-dawadi165/) 
 
-# 💻 Tech Stack:
+#### 💻 Tech Stack:
 React, Vue, Tailwind, Nuxt, Git, Gitub
-# 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cole15sky&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cole15sky&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
