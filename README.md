@@ -8,8 +8,9 @@
 
 #### 💻 Tech Stack:
 React, Vue, Tailwind, Nuxt, Git, Gitub
-#### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=cole15sky&theme=dark&hide_border=false)<br/>
+<Br>
+<Br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cole15sky&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
