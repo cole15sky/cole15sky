@@ -5,8 +5,8 @@
 
 
 # 🙋‍♂️ About Me
-- 👨‍💻 I'm a **CS-Student**
-- 🌱 Currently working as a **Full Stack Developer**
+- 👨‍💻 I'm a **CS-Student.**
+- 🌱 Currently working as a **Full Stack Developer.**
 - ⚡ Fun fact: I love hanging within **Spotify** for hours and hours.
 
 ## 🚀 Languages and Tools:
