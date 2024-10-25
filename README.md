@@ -1,5 +1,6 @@
-![Profile Image](https://t3.ftcdn.net/jpg/08/24/65/58/360_F_824655815_s3DwP9iy1AxFQRWpli3ahNOg4CJ22zGu.jpg)
-
+<div align="center">
+    <img src="https://t3.ftcdn.net/jpg/08/24/65/58/360_F_824655815_s3DwP9iy1AxFQRWpli3ahNOg4CJ22zGu.jpg" alt="Profile Image" width="screen" />
+</div>
 
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aakash
