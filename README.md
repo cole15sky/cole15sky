@@ -10,9 +10,10 @@
 <div align="center">
 
 # 🙋‍♂️ About Me
-👨‍💻 I'm a **CS-Student.**
-🌱 Currently working as a **Full Stack Developer.**
-⚡ Fun fact: I love hanging within **Spotify** for hours and hours.
+
+- 👨‍💻 I'm a **CS-Student.**
+- 🌱 Currently working as a **Full Stack Developer.**
+- ⚡ Fun fact: I love hanging within **Spotify** for hours and hours.
 
  </div>
 
